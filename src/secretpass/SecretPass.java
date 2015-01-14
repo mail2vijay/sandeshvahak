@@ -9,7 +9,7 @@ package secretpass;
  * @author Vijay
  */
 public interface SecretPass {
-    String MOBILENUMBER="918005320335";
-    String PASSWORD="6NzlXsn1mIa7YOKD5TTRVQw8xqw=";
+    String MOBILENUMBER="mobile-number-with-country-code";
+    String PASSWORD="password";
     
 }
